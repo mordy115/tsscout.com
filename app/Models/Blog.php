@@ -12,6 +12,7 @@ class Blog extends Model
         'excerpt',
         'author',
         'publish_date',
+        'update_date',
         'image',
         'category',
         'content',
